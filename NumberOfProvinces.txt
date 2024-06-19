@@ -1,4 +1,4 @@
-
+//Number OF provinces 
 class Solution {
     static int numProvinces(ArrayList<ArrayList<Integer>> adj, int V) {
         int visited[] = new int[V];
